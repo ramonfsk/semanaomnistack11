@@ -7,5 +7,6 @@ Neste projeto foram utilizados a seguintes tecnologias abaixo:
 * ECMAScript6+
 * HTMl & CSS
 * TDD
+* Expo
 
 Projeto da semana OmniStack 11.0 da empresa RocketSeat ministrado por Diego Fernandes.
